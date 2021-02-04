@@ -15,7 +15,7 @@
 
 ## Checklist for manual examination using Keyboard Navigation for all websites:
 
-**Keyboard focus: ENSURE that:**
+### Keyboard focus: ENSURE that:
 
   - The focus order follows the visual order of the web page.
 
@@ -34,7 +34,7 @@
   - Meaningful and easy order.
   
 
-**Tab order:**
+### Tab order:
 
   - See if you can activate all interactive elements with Enter and Space keys.
 
@@ -45,7 +45,7 @@
   - Users can select the menu items or drop down items with the keyboard.
   
 
-**Forms:**
+### Forms:
 
   - Tab order of forms should be logical.
 
@@ -58,7 +58,7 @@
   - As soon as you submit the form and an error appears on the field, keyboard focus should be set on that field.
   
 
-**Dialog box and pop-ups:**
+### Dialog box and pop-ups:
 
   - As soon as the dialog opens up, keyboard focus should be set on the dialog or pop-up.
 
@@ -67,7 +67,7 @@
   - When the pop-up is closed, focus should be set on the element which activated the dialog on the parent page.
 
 
-**Multimedia Controls:** *For video, audio, and animated carousels (sliders or slideshow).*
+### Multimedia Controls: *For video, audio, and animated carousels (sliders or slideshow).*
 
   - Manual control exists for play/pause/hide.
 
