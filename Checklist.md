@@ -74,7 +74,9 @@
   - Controls can be activated using the keyboard and tabbed through.
   
 
-## Testing using screen reader: ### Browsers + Best tool to use
+## Testing using screen reader: 
+
+### Browsers + Best tool to use
   1. Firefox + NVDA
   2. Safari + Voiceover
   3. Chrome + Talkback
