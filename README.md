@@ -48,7 +48,7 @@ It is important that the Web be accessible to everyone in order to provide equal
   - Buttons: Use <button> tag; NOT Anchors 
   - Links: Anchor <a> for links, 
   - Tables: <table>, <tbody>, <td>, <th> for tables; 
-  - Headings: <h1>, <h2 >... for headings
+  - Headings: <h1>, <h2 >.. for headings
   
 5. Better tables
   - Try including <caption></caption> for the titles of the table instead of bolding the title
