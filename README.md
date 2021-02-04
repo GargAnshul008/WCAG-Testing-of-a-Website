@@ -84,3 +84,43 @@ It is important that the Web be accessible to everyone in order to provide equal
 
 ## Testing using color contrast tools: 
   - [Color Contrast analyser tool](https://webaim.org/resources/contrastchecker/)
+  
+  
+## WCAG PRIORITY LIST: (Web Content Accessibility Guidelines)
+### Following is my procedure to check the accessibility compliance of any webpage, after checking below mentioned guidelines, I check for others.
+
+PERCEIVABLE:
+1.1.1: Text Alternatives: None-text content; alt=””
+1.3.1: semantic markup, tables, text labels
+1.4.3: Contrast ratio of at least 4:5:1 (txt & img), large 14-18pt, bold contrast 3:1
+1.4.4: resize text: readable and functionable to 200%
+1.4.5: Images of Text: If if same can be done by text alone, don’t use images
+1.4.12: Text spacing: no loss of content or functionality, when user adapts <p> spacing to 2x, text line height to 1.5x, word spacing to 0.16x font size
+
+OPERABLE:
+2.1.1: Keyboard: all should be accessible, unless free hand drawing req. 
+2.2.2: Pause/stop/hide: carousels/animation > 5 sec can be PSH = auto updating content (eg chat msg, news tickers)
+2.4.7: Focus Visible: visually see which element has current keyboard focus
+2.4.3: Focus order: navigation is logical and intuitive
+2.4.4: Link Purpose (in context);purpose should be determined by the text alone or the surrounding text/image, links with same text at different places should be distinguishable
+
+UNDERSTANDABLE:
+3.2.1: On Focus: When page is in focus, it should not change due to pop-up windows or additional changes
+
+ROBUST:
+4.1.1: Parsing: Significant HTML/XHTML validation/parsing errors should be avoided.
+
+
+### HOW does UNIVERSAL DESIGN address web A11Y for people with disabilities, while at the same time improving USABILITY for everyone?
+
+__This can potentially be a long list. __
+
+**Explaining with a help of a few examples: **
+
+  - Create link text that is meaningful, avoiding links like “click here.” Able and disabled people can scan links of a page more easily without having to follow links to see where they lead. 
+  - Prevent errors from occurring using effective prompting, feedback messaging, and data validation. Ensures everyone is prevented from submitting incorrect data. 
+  - When presenting visual content, also include text describing the meaningful element of the visual. 
+  - Provide a text description for those who cannot see, and describe the visual for those who might not understand the meaningful elements of the visual. 
+  - Use relative measures to size elements in web content so it easily adapts to magnification, and to a variety of device screen sizes. 
+  - Include redundant modalities, such as including a visual cue, like a flash, when an audio cue, like a beep, is presented, for those who cannot hear, or those who have audio turned off.
+
