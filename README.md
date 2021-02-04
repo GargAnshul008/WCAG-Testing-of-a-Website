@@ -71,3 +71,16 @@ It is important that the Web be accessible to everyone in order to provide equal
       
   - aXe plugin: Deque Tools: Works for all browsers: 
       - Extension available for Chrome and Firefox [aXe plugin](https://www.deque.com/axe/)
+      
+## Testing using keyboard navigation
+  - This check is performed using Keyboard only and we test the focus, tab order, forms, Dialog box and popups, multimedia links, and navigation links. The first step in manual testing is to throw away your mouse. Verify that the user is able to navigate the website page, including the header, footer, all menus and interactive elements using only the keyboard.
+
+
+## Testing using screen reader: *Browsers + Best tool to use*
+  1. Firefox + [NVDA](https://webaim.org/resources/shortcuts/nvda)
+  2. Safari + [Voiceover](https://www.applevis.com/guides/macos-voiceover/complete-list-voiceover-keyboard-shortcuts-available-macos)
+  3. Chrome + [Talkback](https://support.google.com/accessibility/android/answer/6283677?hl=en)
+  4. IE + [JAWS](https://webaim.org/resources/shortcuts/jaws)
+
+## Testing using color contrast tools: 
+  - [Color Contrast analyser tool](https://webaim.org/resources/contrastchecker/)
