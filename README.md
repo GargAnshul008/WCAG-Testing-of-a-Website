@@ -95,7 +95,7 @@ It is important that the Web be accessible to everyone in order to provide equal
  - 1.4.3: Contrast ratio of at least 4:5:1 (txt & img), large 14-18pt, bold contrast 3:1
  - 1.4.4: resize text: readable and functionable to 200%
  - 1.4.5: Images of Text: If if same can be done by text alone, don’t use images
- - 1.4.12: Text spacing: no loss of content or functionality, when user adapts <p> spacing to 2x, text line height to 1.5x, word spacing to 0.16x font size
+ - 1.4.12: Text spacing: no loss of content or functionality, when user adapts \<p> spacing to 2x, text line height to 1.5x, word spacing to 0.16x font size
 
 **OPERABLE:**
  - 2.1.1: Keyboard: all should be accessible, unless free hand drawing req. 
