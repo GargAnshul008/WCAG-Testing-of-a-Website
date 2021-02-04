@@ -47,11 +47,11 @@ It is important that the Web be accessible to everyone in order to provide equal
 4. Use Default HTML Tags
   - Buttons: Use <button> tag; NOT Anchors 
   - Links: Anchor <a> for links, 
-  - Tables: <table>, <tbody>, <td>, <th> for tables; 
-  - Headings: <h1>, <h2 >.. for headings
+  - Tables: \<table>, <tbody>, <td>, <th> for tables; 
+  - Headings: \<h1>, <h2 >.. for headings
   
 5. Better tables
-  - Try including <caption></caption> for the titles of the table instead of bolding the title
+  - Try including \<caption></caption> for the titles of the table instead of bolding the title
   - Always use <scope> to define the table cells, so that screen readers don’t rattle them, without giving any context
  
 6. ARIA Tag
