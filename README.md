@@ -113,7 +113,7 @@ It is important that the Web be accessible to everyone in order to provide equal
 
 ### HOW does UNIVERSAL DESIGN address web A11Y for people with disabilities, while at the same time improving USABILITY for everyone?
 
-_This can potentially be a long list. _\
+_This can potentially be a long list. _
 
 **Explaining with a help of a few examples:**
 
