@@ -1,4 +1,4 @@
-##Checklist for manual examination using Desktop Online Tool for all websites:
+## Checklist for manual examination using Desktop Online Tool for all websites:
 
 [] Alt text, title and heading text
 [] Visual focus indicators
@@ -8,7 +8,7 @@
 [] Multimedia captioning checks
 
 
-##Checklist for manual examination using Keyboard Navigation for all websites:
+## Checklist for manual examination using Keyboard Navigation for all websites:
 
 **[] Keyboard focus: ENSURE that:**
 
